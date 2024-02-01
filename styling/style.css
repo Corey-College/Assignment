@@ -1,0 +1,640 @@
+.container_1{
+    background: url(../assets/city_skyline.jpg);
+    background-size: cover;
+    min-height: 150vh;
+    
+   
+    
+      
+}
+
+.header h1 {
+    font-family: 'Leckerli One', cursive;
+    font-size: 70px;
+    text-align: center;
+    padding: 100px 0px 0px 0px;
+    color: white; 
+}
+
+.content1 h2{
+    font-family: "Londrina Solid", sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+      
+}
+
+.index_button{
+   text-align: center;
+   font-weight: bold;
+   padding-top: 10px;
+   color: white;
+}
+
+.index_button:hover{
+    opacity: 0.8;
+}
+
+
+.footer{
+   padding: 0px 0px 5px 0px;
+   position: absolute;
+   bottom: 0%;
+   left: 0;
+   color: white;
+   font-weight: bold;
+   background: rgba(0,0,0,0.9);
+   width: 100%; 
+   z-index: 10;
+   
+   
+         
+}
+
+.fa{
+    padding: 15px 0px 0px 0px;
+}
+
+
+.fa-google{
+    background: white;
+    color: #cc0033;
+    padding: 5px;   
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+.fa-linkedin{
+    background: #0077b5;
+    color: white;
+    padding: 5px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-google:hover{
+    opacity: 0.4;
+}
+
+.fa-linkedin:hover{
+    opacity: 0.4;
+}
+.header ul{
+    text-align: center;
+    list-style: none;
+    background: rgba(0,0,0,0.2);
+    padding: 10px 0px 0px 0px; 
+    
+}
+
+.header a{
+    color: white; 
+}
+
+.header li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    margin: 50px;
+    
+}
+
+
+
+
+.container_2{
+    background: url(../assets/city_skyline.jpg);
+    background-size: cover;
+    min-height: 150vh;
+    
+   
+    
+          
+}
+
+
+.attraction_1 h2{
+    font-family: "Londrina Solid", sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: white; 
+    padding-bottom: 10px;
+    
+}
+
+.attraction_1 p{
+    padding: 0px 5px 0px 5px;
+    text-align: center;
+    margin-left: 375px;
+    margin-right: 375px;
+    font-size: 16px;
+    background: rgba(0,0,0,0.2);
+    color: white;
+    
+       
+}
+
+.etihad_image{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    
+    border-radius: 10%;
+    max-height: 400px;
+    min-width: 30%;
+   
+}
+
+
+.attraction_2 h2{
+    font-family: "Londrina Solid", sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.attraction_2 p{
+    padding: 0px 5px 0px 5px;
+    text-align: center;
+    margin-left: 375px;
+    margin-right: 375px;
+    font-size: 16px;
+    background: rgba(0,0,0,0.2);
+    color: white;
+    
+    
+}
+
+.gallery_image{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 10%;
+    max-height: 400px; 
+    min-width: 30%
+}
+
+.attraction_3 h2{
+    font-family: "Londrina Solid", sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.attraction_3 p{
+    padding: 0px 5px 0px 5px;
+    text-align: center;
+    margin-left: 375px;
+    margin-right: 375px;
+    font-size: 16px;
+    background: rgba(0,0,0,0.2);
+    color: white;
+       
+}
+
+.museum_image{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 10%;
+    max-height: 400px;
+    min-width: 30%;
+}
+
+.footer_2{
+   padding: 0px 0px 5px 0px;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   color: white;
+   font-weight: bold;
+   background: rgba(0,0,0,0.9);
+   width: 100%;
+   z-index: 10;
+}
+
+.header_2 ul{
+    text-align: center;
+    list-style: none;
+    background: rgba(0,0,0,0.2);
+    padding: 10px 0px 0px 0px;
+    
+}
+
+.header_2 a{
+    color: white;   
+}
+
+.header_2 li{
+    display: inline;
+    padding: 0px 20px 0px 20px;
+    margin: 50px;
+}
+
+
+
+.container_3{
+    background: url(../assets/city_skyline.jpg);
+    background-size: cover;
+    min-height: 200vh;
+    
+}
+
+.header_3 h1{
+    font-family: "Londrina Solid", sans-serif;
+    font-size: 50px;
+    text-align: left;
+    padding: 20px;
+    color: black;
+}
+
+.shop_1 h2{
+    font-family: "Londrina Solid", sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.shop_1 p{
+    padding: 0px 5px 0px 5px;
+    text-align: center;
+    margin-left: 375px;
+    margin-right: 375px;
+    font-size: 16px;
+    background: rgba(0,0,0,0.2);
+    color: white;
+           
+}
+
+.trafford_image{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 10%;
+    max-height: 400px;
+    min-width: 30%;
+    
+    
+}
+
+.shop_2 h2{
+    font-family: "Londrina Solid", sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.shop_2 p{
+    padding: 0px 5px 0px 5px;
+    text-align: center;
+    margin-left: 375px;
+    margin-right: 375px;
+    font-size: 16px;
+    background: rgba(0,0,0,0.2);
+    color: white;
+    
+    
+}
+
+.build_a_bear_image{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 10%;
+    max-height: 400px;
+    min-width: 30%;
+    
+}
+
+.shop_3 h2{
+    font-family: "Londrina Solid", sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.shop_3 p{
+    padding: 0px 5px 0px 5px;
+    text-align: center;
+    margin-left: 375px;
+    margin-right: 375px;
+    font-size: 16px;
+    background: rgba(0,0,0,0.2);
+    color: white;
+    
+    
+}
+
+.perfume_shop{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 10%;
+    max-height: 400px;
+    min-width: 30%;
+    
+}
+
+.footer_3{
+   padding: 0px 0px 5px 0px;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   color: white;
+   font-weight: bold;
+   background: rgba(0,0,0,0.9);
+   width: 100%;
+   z-index: 10;
+}
+
+.header_3 ul{
+    text-align: center;
+    list-style: none;
+    background: rgba(0,0,0,0.2);
+    padding: 10px 0px 0px 0px;
+}
+
+.header_3 a{
+    color: white;
+}
+
+.header_3 li{
+    display: inline;
+    padding: 0px 20px 0px 20px;
+    margin: 50px;
+}
+
+
+
+
+.container_4{
+     background: url(../assets/city_skyline.jpg);
+     background-size: cover;
+     min-height: 190vh;
+    
+     
+}
+
+
+
+.food_1 h2{
+    font-family: "Londrina Solid", sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-bottom: 10px;
+}
+.food_1 p{
+    padding: 0px 5px 0px 5px;
+    text-align: center;
+    margin-left: 375px;
+    margin-right: 375px;
+    font-size: 16px;
+    background: rgba(0,0,0,0.2);
+    color: white;
+    
+    
+}
+
+
+.lucky_cat{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    display: block;
+    margin: auto;
+    width: 30%;
+    border-radius: 10%;
+    max-height: 400px;
+      
+}
+
+.coast_to_coast{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    display: block;
+    margin: auto;
+    width: 30%;
+    border-radius: 10%;
+    max-height: 400px;
+   
+}
+
+.food_2 h2{
+    font-family: "Londrina Solid", sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.food_2 p{
+    padding: 0px 5px 0px 5px;
+    text-align: center;
+    margin-left: 375px;
+    margin-right: 375px;
+    font-size: 16px;
+    background: rgba(0,0,0,0.2);
+    color: white;
+    
+    
+}
+
+.alchemist_image{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    display: block;
+    margin: auto;
+    width: 30%;
+    border-radius: 10%;
+    max-height: 400px;
+       
+}
+
+.old_wellington{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    display: block;
+    margin: auto;
+    
+    width: 30%;
+    border-radius: 10%;
+    max-height: 400px;   
+    
+}
+
+.footer_4{
+   padding: 0px 0px 5px 0px;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   color: white;
+   font-weight: bold;
+   background: rgba(0,0,0,0.9);
+   width: 100%;
+   z-index: 10;
+}
+
+.header_4 ul{
+    text-align: center;
+    list-style: none;
+    background: rgba(0,0,0,0.2);
+    padding: 10px 0px 0px 0px;
+}
+
+.header_4 a{
+    color: white;
+}
+
+.header_4 li{
+    display: inline;
+    padding: 0px 20px 0px 20px;
+    margin: 50px;
+}
+
+
+.container_5{
+    background: url(../assets/city_skyline.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    
+    
+}
+
+.about_me h2{
+    font-family: "Londrina Solid", sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.about_me p{
+    padding: 0px 5px 0px 5px;
+    text-align: center;
+    margin-left: 375px;
+    margin-right: 375px;
+    font-size: 16px;
+    background: rgba(0,0,0,0.2);
+    color: white;
+    text-align: center;
+    
+}
+
+.about_me_image{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 10%;
+    max-height: 400px;
+    min-width: 35%;
+    
+}
+
+.footer_5{
+   padding: 0px 0px 5px 0px;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   color: white;
+   font-weight: bold;
+   background: rgba(0,0,0,0.9);
+   width: 100%;
+   z-index: 10;
+}
+
+.header_5 ul{
+    text-align: center;
+    list-style: none;
+    background: rgba(0,0,0,0.2);
+    padding: 10px 0px 0px 0px;
+}
+
+.header_5 a{
+   color: white; 
+}
+
+.header_5 li{
+    display: inline;
+    padding: 0px 20px 0px 20px;
+    margin: 50px;
+}
+
+html{
+    height: 100%;
+    box-sizing: border-box;
+}
+body{
+    position: relative;
+    margin: 0;
+    min-height: 100%;
+    box-sizing: inherit;
+    padding-bottom: 130px;
+    
+}
+
+
+
+
+@media(max-width: 1100px){
+body{
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        font-size: 3px;
+        float: left;
+        
+ }
+ 
+ ul{
+     display: flex block;
+     
+ }
+ 
+ footer{
+        width: 100%;
+        margin: auto;
+        display: flex;
+        
+   
+    
+    
+ }
+
+ 
+}
+
+   
+
+
+
